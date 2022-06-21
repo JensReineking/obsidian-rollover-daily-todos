@@ -1,5 +1,7 @@
 # Rollover Daily Todos
 
+Note from Jens: My first attempt to change anything in a plugin. I "just" want to change the regex-expression to also roll over deferred and started tasks, not only the completely open ones.
+
 This Obsidian plugin will rollover any incomplete todo items from the previous daily note (could be yesterday, or a week ago) to today. This is triggered automatically when a new daily note is created via the internal `Daily notes` plugin, or the `Periodic Notes` plugin., It can also be run as a command from the Command Palette.
 
 ![A demo of the plugin working](./demo.gif)
